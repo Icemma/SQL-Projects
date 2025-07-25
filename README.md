@@ -67,6 +67,8 @@ VALUES
 ('10', 'Blessing', 'Mark', 'Blessing.mark@gmail.com', '0803‑123‑0010', 'Uyo');
 </pre>
 
+![image alt](https://github.com/Icemma/SQL-Projects/blob/ca04cf27b4f49e9b251be5f55b1348c679a276b7/Screenshot%202025-07-25%20155506.png)
+
 ## Answers to Analytical Questions and Results
 
 1. **Return the FirstName and Email of every customer who has ever purchased the product “Wireless Mouse”**
