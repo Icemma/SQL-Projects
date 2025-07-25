@@ -145,6 +145,7 @@ ORDER BY
     TotalRevenue DESC;
 </pre>
 
-![image alt]
+![image alt](https://github.com/Icemma/SQL-Projects/blob/493e758d1cba6b3a17ab3402e8bf235f9a3268ef/Screenshot%202025-07-25%20155303.png)
+
 
   
