@@ -3,6 +3,8 @@
 ## Project Overview
 This project demonstrates a complete SQL-based solution for an Electronics & Accessories retail business, **AxiaStores**. It involves designing and implementing a relational database with three core tables, Customer, Product, and Orders. While performing various analytical queries to extract insights.
 
+## Table of Content
+- [Project Overview](#project-overview)
 
 ## Objectives
 The primary goal of this project is to
@@ -148,4 +150,7 @@ ORDER BY
 ![image alt](https://github.com/Icemma/SQL-Projects/blob/493e758d1cba6b3a17ab3402e8bf235f9a3268ef/Screenshot%202025-07-25%20155303.png)
 
 
+### References
+[Axia Africa SQL Exam](https://drive.google.com/file/d/13chnDFUr7NqbyPSRqy65d9pgeVCM86Ix/view)
+[Axia Africa](https://student.axia.africa)
   
