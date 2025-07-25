@@ -18,7 +18,7 @@ The primary goal of this project is to
 - Creation of multiple tables within the database with appropriate data types and constraints:
 - Insertion of sample records into all tables
 - Query functions like:
-  - Retriever customer details
+  - Retriever of customer details
   - Sorting alphabetically
   - The use of Join funtion for multiple tables
   - Use of aggregate functions like average and sum
