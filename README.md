@@ -5,6 +5,12 @@ This project demonstrates a complete SQL-based solution for an Electronics & Acc
 
 ## Table of Content
 - [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Tools and Methodologies](#tool-methodologies)
+- [Key Analytical Questions](#key-analytical-questions)
+- [Samples of SQL Queries and Results](#sample-of-sql-queries-and-results)
+- [Answers to Analytical Questions and Results](#answers-to-analytical-questions-and-results)
+- [References](#references)
 
 ## Objectives
 The primary goal of this project is to
@@ -151,6 +157,6 @@ ORDER BY
 
 
 ### References
-[Axia Africa SQL Exam](https://drive.google.com/file/d/13chnDFUr7NqbyPSRqy65d9pgeVCM86Ix/view)
-[Axia Africa](https://student.axia.africa)
+- [Axia Africa SQL Exam](https://drive.google.com/file/d/13chnDFUr7NqbyPSRqy65d9pgeVCM86Ix/view)
+- [Axia Africa](https://student.axia.africa)
   
