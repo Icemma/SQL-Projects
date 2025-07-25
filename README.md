@@ -80,6 +80,8 @@ join ProductTB p on o.ProductID = p.ProductID
 where p.ProductID=1
 </pre>
 
+![image alt](https://github.com/Icemma/SQL-Projects/blob/b3ef468b6da4bd14bee35f49a7989e71aedf7a67/Screenshot%202025-07-25%20154957.png)
+
 2. **List all customers’ full names in ascending alphabetical order (LastName, then FirstName)**
 <pre>
 --List all customers’ full names in ascending alphabetical order (LastName, then FirstName)
@@ -87,6 +89,8 @@ SELECT FirstName, LastName
 FROM CustomerTB
 ORDER BY LastName ASC, FirstName ASC;
 </pre>
+
+![image alt]
 
 3. **Show every order together with the customer’s full name, the product name, quantity, unit price, total price (quantity × unit price), and order date.**
 <pre>
@@ -105,6 +109,8 @@ GROUP BY
     c.FirstName, c.LastName, p.ProductName, o.Quantity,p.UnitPrice;
 </pre>
 
+![image alt]
+
 4. **Show average sales per product category and sort in descending order**
 <pre>
 --Show average sales per product category and sort in descending order
@@ -116,6 +122,8 @@ JOIN OrdersTB o ON p.ProductID = o.ProductID
 GROUP BY p.Category
 ORDER BY AverageSales DESC;
 </pre>
+
+![image alt]
 
 5. **Which city generated the highest revenue for AxiaStores?**
 <pre>
@@ -136,5 +144,7 @@ GROUP BY
 ORDER BY 
     TotalRevenue DESC;
 </pre>
+
+![image alt]
 
   
