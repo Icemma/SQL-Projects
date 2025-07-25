@@ -14,7 +14,7 @@ This project demonstrates a complete SQL based solution for an Electronics & Acc
 
 ## Objectives
 The primary goal of this project is to
-- Creation of a sample database
+- Create a sample relational database
 - Creation of multiple tables within the database with appropriate data types and constraints:
 - Insertion of sample records into all tables
 - Query functions like:
