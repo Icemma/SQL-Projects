@@ -29,9 +29,9 @@ The primary goal of this project is to
 
 1. Open your SSMS.
 2. Load and execute script like:
-   - Create a new database called `AxiaStores`
-   - Create CustomerTB, ProductTB, and OrdersTB tables using proper data types and data constraints
-   - Populate CustomerTB, ProductTB, and OrdersTB tables with the necessary data
+   - Create a new database called **AxiaStores**
+   - Create **CustomerTB**, **ProductTB**, and **OrdersTB** tables using proper data types and data constraints
+   - Populate **CustomerTB**, **ProductTB**, and **OrdersTB** tables with the necessary data
    - Anwser analytical questions and run queries, save and document results for reporting and insights
   
 
